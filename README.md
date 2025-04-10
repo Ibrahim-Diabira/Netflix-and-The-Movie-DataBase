@@ -61,3 +61,9 @@ To view the data exploration from part 1, open the notebook:
 ```bash
 Data et scripts/Version_final_ p1.ipynb
 ```
+- __Contributors__ :
+  
+Ibrahim DIABIRA,
+Tigran GYURJYAN,
+Marwan HAMZAOUI
+
