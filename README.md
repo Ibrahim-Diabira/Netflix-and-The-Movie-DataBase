@@ -6,6 +6,7 @@ The ever-growing availability of digital content makes it increasingly important
 
 Our approach relies on **explicit user preferences** and filters based on key attributes such as genre, rating, language, or release year. It is built entirely in Python, with a graphical interface created using Tkinter to ensure a smooth user experience.
 
+➡️ **Grade received: 16/20**
 
 ## Project Description
 
@@ -67,3 +68,4 @@ Ibrahim DIABIRA,
 Tigran GYURJYAN,
 Marwan HAMZAOUI
 
+Hope you enjoy exploring 🎬
