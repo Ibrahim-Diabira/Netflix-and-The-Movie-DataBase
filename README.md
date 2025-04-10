@@ -66,6 +66,7 @@ Data et scripts/Version_final_ p1.ipynb
   
 Ibrahim DIABIRA,
 Tigran GYURJYAN,
-Marwan HAMZAOUI
+Marwan HAMZAOUI,
+Guillaume Roustan
 
 Hope you enjoy exploring 🎬
