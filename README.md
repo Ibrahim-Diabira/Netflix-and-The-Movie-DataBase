@@ -23,18 +23,15 @@ We implemented several recommendation logics:
 - **Top-N suggestions** based on rating and popularity
 - **Similarity-based suggestions**: Movies similar to those the user already enjoyed
 
-### 3. **Graphical User Interface (GUI)**
+### 3. **Graphical User Interface**
 A user-friendly interface was developed using **Tkinter**:
 - Allows users to input preferences via dropdowns, checkboxes and entry fields
 - Displays filtered movie recommendations with key details (title, genre, synopsis, rating, etc.)
 
 
-## Datasets Used
+## Project setup
 
-- [Netflix Movies and TV Shows (Kaggle)](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
-- [TMDb Movie Dataset 2023 (Kaggle)](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)
-
-Both datasets were cleaned and merged where needed to enable consistent filtering and comparison.
+Create a single folder and place the entire project inside it.
 
 ## How to launch the project
 
@@ -51,3 +48,16 @@ Both datasets were cleaned and merged where needed to enable consistent filterin
 python "Data et scripts/Data_frame.py"
 python "Data et scripts/Fonctions.py"
 python "Data et scripts/Interface.py"
+```
+##To test the functions without the graphical interface, run:
+
+```bash
+python "Data et scripts/Fonctions_input.py"
+```
+
+##Data exploration
+To view the data exploration from part 1, open the notebook:
+
+```bash
+Data et scripts/Version_final_ p1.ipynb
+```
