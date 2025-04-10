@@ -35,3 +35,19 @@ A user-friendly interface was developed using **Tkinter**:
 - [TMDb Movie Dataset 2023 (Kaggle)](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)
 
 Both datasets were cleaned and merged where needed to enable consistent filtering and comparison.
+
+## How to launch the project
+
+1. Download the two datasets:
+
+- [Netflix dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
+- [TMDb dataset](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)
+
+2. Place them in the `Data/` folder at the root of the project.
+
+3. Run the scripts in this order:
+
+```bash
+python "Data et scripts/Data_frame.py"
+python "Data et scripts/Fonctions.py"
+python "Data et scripts/Interface.py"
