@@ -49,13 +49,13 @@ python "Data et scripts/Data_frame.py"
 python "Data et scripts/Fonctions.py"
 python "Data et scripts/Interface.py"
 ```
-## 1.To test the functions without the graphical interface, run:
+To test the functions without the graphical interface, run:
 
 ```bash
 python "Data et scripts/Fonctions_input.py"
 ```
 
-## 2.Data exploration
+Data exploration
 To view the data exploration from part 1, open the notebook:
 
 ```bash
