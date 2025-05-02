@@ -1,0 +1,30 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Fichiers compilés Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebooks temporaires
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Historique R (au cas où)
+.Rhistory
+
+# Datasets lourds à exclure
+Data et scripts/Data/netflix_titles.csv
+Data et scripts/Data/TMDB_movie_dataset_v11.csv
+
+
